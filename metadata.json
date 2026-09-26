@@ -1,0 +1,6 @@
+{
+  "name": "Flora Café — Wellness Looks Good On You",
+  "description": "Modesto downtown café committed to reimagining your daily ritual through thoughtfully sourced coffee, ceremonial matcha, and wellness community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
